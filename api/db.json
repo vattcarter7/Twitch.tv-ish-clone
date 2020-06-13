@@ -11,15 +11,13 @@
       "id": 2
     },
     {
-      "title": "I created this stream",
+      "title": "I created this stream edit",
       "description": "this was made by me",
-      "userId": "111317396459623392304",
       "id": 3
     },
     {
-      "title": "me streaming component reuse",
+      "title": "me streaming component refactor",
       "description": "watch me refactor",
-      "userId": "111317396459623392304",
       "id": 4
     }
   ]

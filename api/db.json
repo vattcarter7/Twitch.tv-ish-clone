@@ -1,3 +1,26 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "My first stream",
+      "description": "first stream ever",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "second stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me",
+      "userId": "111317396459623392304",
+      "id": 3
+    },
+    {
+      "title": "me streaming component reuse",
+      "description": "watch me refactor",
+      "userId": "111317396459623392304",
+      "id": 4
+    }
+  ]
 }
